@@ -8,6 +8,8 @@
     box-sizing: border-box;
 }
 
+
+
 body {
     background: linear-gradient(100deg, #81d7ec, #a8fff8e7, #baecead3) no-repeat;
     min-height: 100vh;
@@ -817,7 +819,7 @@ footer .last-img img {
         display: none;
     }
 
-    .navbar .bi-list {
+    .navbar .menu i {
         display: none;
     }
 
